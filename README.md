@@ -2,7 +2,7 @@
 
 ### Following environment has to be installed:
 
-1. [Python 3.7](https://www.python.org/downloads/) : 3.8 or higher incompatible with the allure framework 
+1. [Python 3.7](https://www.python.org/downloads/) : 3.8 or higher is incompatible with the allure framework 
 
 2. [Chrome Browser](https://www.google.com/intl/en/chrome/) : Last version preferred
 
